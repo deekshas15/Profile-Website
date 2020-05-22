@@ -1,0 +1,114 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+}
+a{
+  color:#66BFBF;
+  }
+.under{
+    font-weight: normal;
+  }
+.top-container{
+  padding-top: 50px;
+  background-color: lavender;
+  height: 760px;
+  position: relative;
+  line-height: 2;
+}
+.myimage{
+  width: 10%;
+  height: auto;
+}
+.valley{
+  width: 60%;
+  height: 350px;
+}
+.skills{
+  text-align: left;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+}
+h1{
+  color: #66BFBF;
+  margin: 0;
+  font-size: 5.5em;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+}
+h3{
+  font-size: 1.4em;
+  color: #11999E;
+  font-family: 'Lobster', cursive;
+}
+p{
+  color: #66BFBF;
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 15px;
+  border-color: #d4f3ef;
+  width:10%;
+  margin: 50px auto;
+}
+.top-cloud{
+  position: relative;
+  left:400px;
+  width: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+  width: 200px;
+}
+.skill_img1{
+  float: left;
+  margin: 0 10px 0 0;
+}
+.skill_img2{
+  float: right;
+  margin: 0 0 0 0;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.middle-container{
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color: lavender;
+  padding: 20px;
+  line-height: 100px;
+}
+.footer-link{
+  padding: 40px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: black;
+}
+.contact{
+  width:40%;
+  margin:5px auto 20px auto;
+}
+button{
+  background-color: #11999E;
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 12px;
+  color: white;
+}
+button:hover{
+  background-color: #66BFBF;
+}
