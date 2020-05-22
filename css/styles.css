@@ -61,15 +61,12 @@ hr{
   margin: 50px auto;
 }
 .top-cloud{
-  position: relative;
-  left:400px;
   width: 200px;
+  margin-right : 20%;
 }
 .bottom-cloud{
-  position: absolute;
-  right:1000px;
-  bottom: 400px;
   width: 200px;
+  margin-left: 20%;
 }
 .skill_img1{
   float: left;
@@ -111,4 +108,9 @@ button{
 }
 button:hover{
   background-color: #66BFBF;
+}
+.heading{
+  width: 50%;
+  margin:auto;
+
 }
